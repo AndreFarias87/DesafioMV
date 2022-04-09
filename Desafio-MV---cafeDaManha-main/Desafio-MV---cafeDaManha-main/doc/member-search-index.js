@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"DesafioMV.cafeDaManha.controller","c":"ColaboradorController","l":"ColaboradorController()","url":"%3Cinit%3E()"},{"p":"DesafioMV.cafeDaManha.controller","c":"ColaboradorController","l":"inserirColaborador(ColaboradorEntity)","url":"inserirColaborador(DesafioMV.cafeDaManha.entity.ColaboradorEntity)"}]
